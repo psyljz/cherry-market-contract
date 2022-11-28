@@ -59,8 +59,7 @@ yarn hardhat deploy --network gorl
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
+If you appreciated this, feel free to give a star and follow me on twitter!
 
-ETH Address: 0x758e4E534AFBB044Dea64AB07e5d783fEc7e1541
 
 [![Psycholab.ljz Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ljzbtc)
